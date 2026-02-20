@@ -3,12 +3,12 @@ import { Helmet } from "react-helmet-async";
 const PDP_URL = "https://samthestrategist.github.io/lmm-centella-restore-cream-pdp/";
 
 const CDN = {
-  heroFront: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/crc-hero-front.png?v=1771408030",
-  heroAngle: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/crc-hero-angle.png?v=1771408032",
-  lifestyleHands: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/crc-lifestyle-hands.png?v=1771408035",
-  textureSwatch: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/crc-texture-swatch.png?v=1771408037",
-  bundle3jars: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/crc-bundle-3jars.png?v=1771408039",
-  adOverlay: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/crc-ad-overlay.png?v=1771408041",
+  heroFront: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/ac8fcd03835d23caf6f4712f5ee4d4fa.png?v=1771556364",
+  heroAngle: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/ac8fcd03835d23caf6f4712f5ee4d4fa.png?v=1771556364",
+  lifestyleHands: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/ac8fcd03835d23caf6f4712f5ee4d4fa.png?v=1771556364",
+  textureSwatch: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/ac8fcd03835d23caf6f4712f5ee4d4fa.png?v=1771556364",
+  bundle3jars: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/ac8fcd03835d23caf6f4712f5ee4d4fa.png?v=1771556364",
+  adOverlay: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/ac8fcd03835d23caf6f4712f5ee4d4fa.png?v=1771556364",
 };
 
 const COLORS = {
